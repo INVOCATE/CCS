@@ -1,0 +1,4 @@
+public staic void main(string[] args){
+
+    system.out.pringln("hello world!!!");
+}
