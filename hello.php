@@ -1,1 +1,3 @@
-dfsk
+echo hello world
+luobingchuang	:wq
+
